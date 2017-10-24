@@ -4,4 +4,55 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 3c3011e0310b89b48bfe197c152e18fc
+  - enabled: 1
+    path: Assets/Scenes/HideoutA.unity
+    guid: 19a04e67b6a4786418554a68c53bb0df
+  - enabled: 1
+    path: Assets/Scenes/HideoutB.unity
+    guid: 5710cefb3ad4e834885a1005dd1fca9e
+  - enabled: 1
+    path: Assets/Scenes/HideoutC.unity
+    guid: a1af02a3578c4ea46b469b5d69bc976d
+  - enabled: 1
+    path: Assets/Scenes/HideoutD.unity
+    guid: 436093e8f8bff4244a5526d9afdbcbb6
+  - enabled: 1
+    path: Assets/Scenes/House/BedA.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/House/BedB.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/House/Car.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/House/Dining.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/House/Entrance.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/House/Fence.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/House/Hall.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/House/Inside.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/House/Kitchen.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/House/Living.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/House/Shed.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/House/ShedInside.unity
+    guid: 00000000000000000000000000000000

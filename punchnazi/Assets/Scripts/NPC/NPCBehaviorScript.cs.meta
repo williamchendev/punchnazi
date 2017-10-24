@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e19edb0a523b83e4480ea8b57a13cda8
+timeCreated: 1508655155
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - npc_pref: {fileID: 1348288047687258, guid: a87bf3cca184fa94db29fe373169e1ac, type: 2}
+  - npc_art: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

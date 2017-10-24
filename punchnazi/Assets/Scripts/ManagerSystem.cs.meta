@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 60a2377e8b6372d4b875aa182b6e7569
+timeCreated: 1508742806
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - inv_pref: {fileID: 1981920160136028, guid: 7a2dc37ddb56a934abdac5106d51e9dc, type: 2}
+  - mouse_pref: {fileID: 1810562737351328, guid: 144b7fbf37cd1724d83396328e2ca665,
+      type: 2}
+  - textbox_pref: {fileID: 1615763601456960, guid: bbf5e1b8dc9362a4fa205b34e944ae09,
+      type: 2}
+  - choice_pref: {fileID: 1843508200600752, guid: 7381a1105a93599449809a76022429ad,
+      type: 2}
+  - pickup_pref: {fileID: 1098131232779686, guid: 09c8ff99bb1488e429fbf31251634e49,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

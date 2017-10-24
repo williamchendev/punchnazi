@@ -1,0 +1,65 @@
+{
+    "length": 7,
+    "data1": [
+        "create",
+        "A",
+        "0",
+        "0"
+    ],
+    "data2": [
+        "talk",
+        "D",
+        "..."
+    ],
+    "data3": [
+        "talk",
+        "A",
+        "Q: Hey, just so you know Antifa is that way. Just head through the gates."
+    ],
+    "data4": [
+        "talk",
+        "A",
+        "Q: You look new, have I seen you before?"
+    ],
+    "data5": [
+        "choice",
+        "A",
+        "2",
+        "I've never met you",
+        "I've seen you before",
+        "Q: That's fine, just head up through the gates for the \ntutorial we set up newcomers like you  \nSoon you'll be Bashing the Fash like a pro!",
+        "Q: My bad, you're probably a pro Fash-Basher. Good luck anyways."
+    ],
+    "data6": [
+        "talk",
+        "A",
+        "Q: And don't forget to have some fun..."
+    ],
+    "data7": [
+        "destroy",
+        "A"
+    ],
+    "data8": [],
+    "data9": [],
+    "data10": [],
+    "data11": [],
+    "data12": [],
+    "data13": [],
+    "data14": [],
+    "data15": [],
+    "data16": [],
+    "data17": [],
+    "data18": [],
+    "data19": [],
+    "data20": [],
+    "data21": [],
+    "data22": [],
+    "data23": [],
+    "data24": [],
+    "data25": [],
+    "data26": [],
+    "data27": [],
+    "data28": [],
+    "data29": [],
+    "data30": []
+}
